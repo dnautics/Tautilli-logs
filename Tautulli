@@ -1,0 +1,74 @@
+2022-05-24 12:44:25 - INFO    :: MainThread : Starting Tautulli v2.10.0
+2022-05-24 12:44:25 - INFO    :: MainThread : [Bundle] Windows 10 (10.0.19044)
+2022-05-24 12:44:25 - INFO    :: MainThread : America/Chicago (UTC-0500)
+2022-05-24 12:44:25 - INFO    :: MainThread : Python 3.9.12 (tags/v3.9.12:b28265d, Mar 23 2022, 23:52:46) [MSC v.1929 64 bit (AMD64)]
+2022-05-24 12:44:25 - INFO    :: MainThread : Program Dir: C:\Program Files\Tautulli
+2022-05-24 12:44:25 - INFO    :: MainThread : Config File: C:\Users\dream\AppData\Local\Tautulli\config.ini
+2022-05-24 12:44:25 - INFO    :: MainThread : Database File: C:\Users\dream\AppData\Local\Tautulli\tautulli.db
+2022-05-24 12:44:25 - INFO    :: MainThread : Checking if the database upgrades are required...
+2022-05-24 12:44:25 - INFO    :: MainThread : Checking if configuration upgrades are required...
+2022-05-24 12:44:25 - DEBUG   :: MainThread : Using cached GitHub version data
+2022-05-24 12:44:25 - DEBUG   :: MainThread : Latest version is e9d370a4b4eaaff26133d9c7529179299fc85fe5
+2022-05-24 12:44:25 - INFO    :: MainThread : Tautulli is up to date
+2022-05-24 12:44:25 - INFO    :: MainThread : Tautulli NotificationHandler :: Starting background notification handler (2 threads).
+2022-05-24 12:44:25 - INFO    :: Thread-1 : Tautulli PlexTV :: Requesting resources for server...
+2022-05-24 12:44:26 - INFO    :: MainThread : Tautulli WebStart :: Initializing Tautulli web server...
+2022-05-24 12:44:26 - INFO    :: MainThread : Tautulli WebStart :: Web server authentication is enabled: Tautulli admin (username is 'dnautics') and Plex admin.
+2022-05-24 12:44:26 - INFO    :: MainThread : Tautulli WebStart :: Thread Pool Size: 10.
+2022-05-24 12:44:26 - INFO    :: MainThread : Tautulli WebStart :: Starting Tautulli web server on http://0.0.0.0:8181/
+2022-05-24 12:44:26 - INFO    :: MainThread : [24/May/2022:12:44:26] ENGINE Serving on http://0.0.0.0:8181
+2022-05-24 12:44:26 - INFO    :: MainThread : Launching Windows system tray icon.
+2022-05-24 12:44:26 - INFO    :: MainThread : Added Tautulli to Windows system startup registry key.
+2022-05-24 12:44:26 - INFO    :: MainThread : Tautulli is ready!
+2022-05-24 12:44:26 - INFO    :: Thread-1 : Tautulli Config :: Writing configuration to file
+2022-05-24 12:44:26 - INFO    :: Thread-1 : Tautulli PlexTV :: Using user-defined URL.
+2022-05-24 12:44:26 - INFO    :: Thread-1 : Tautulli PlexTV :: Selected server: MediaServer02 (http://***.***.***.***:20448) (Windows - Version 1.26.1.5798-99a4a6ac9)
+2022-05-24 12:44:26 - INFO    :: Thread-1 : Tautulli Config :: Writing configuration to file
+2022-05-24 12:44:26 - DEBUG   :: Thread-1 : Tautulli Monitor :: Checking for active streams.
+2022-05-24 12:44:26 - INFO    :: Thread-16 : Tautulli WebSocket :: Opening websocket.
+2022-05-24 12:44:26 - INFO    :: Thread-1 : Tautulli Users :: Requesting users list refresh...
+2022-05-24 12:44:26 - INFO    :: Thread-16 : Tautulli WebSocket :: Ready
+2022-05-24 12:44:26 - INFO    :: Thread-16 : Scheduled background task: Check GitHub for updates
+2022-05-24 12:44:26 - INFO    :: Thread-16 : Scheduled background task: Optimize Tautulli database
+2022-05-24 12:44:26 - INFO    :: Thread-16 : Scheduled background task: Backup Tautulli database
+2022-05-24 12:44:26 - INFO    :: Thread-16 : Scheduled background task: Backup Tautulli config
+2022-05-24 12:44:26 - INFO    :: Thread-16 : Scheduled background task: Refresh Plex server URLs
+2022-05-24 12:44:26 - INFO    :: Thread-16 : Scheduled background task: Refresh users list
+2022-05-24 12:44:26 - INFO    :: Thread-16 : Scheduled background task: Refresh libraries list
+2022-05-24 12:51:58 - INFO    :: MainThread : Starting Tautulli v2.10.0
+2022-05-24 12:51:58 - INFO    :: MainThread : [Bundle] Windows 10 (10.0.19044)
+2022-05-24 12:51:58 - INFO    :: MainThread : America/Chicago (UTC-0500)
+2022-05-24 12:51:58 - INFO    :: MainThread : Python 3.9.12 (tags/v3.9.12:b28265d, Mar 23 2022, 23:52:46) [MSC v.1929 64 bit (AMD64)]
+2022-05-24 12:51:58 - INFO    :: MainThread : Program Dir: C:\Program Files\Tautulli
+2022-05-24 12:51:58 - INFO    :: MainThread : Config File: C:\Users\dream\AppData\Local\Tautulli\config.ini
+2022-05-24 12:51:58 - INFO    :: MainThread : Database File: C:\Users\dream\AppData\Local\Tautulli\tautulli.db
+2022-05-24 12:51:58 - INFO    :: MainThread : Checking if the database upgrades are required...
+2022-05-24 12:51:58 - INFO    :: MainThread : Checking if configuration upgrades are required...
+2022-05-24 12:51:58 - DEBUG   :: MainThread : Using cached GitHub version data
+2022-05-24 12:51:58 - DEBUG   :: MainThread : Latest version is e9d370a4b4eaaff26133d9c7529179299fc85fe5
+2022-05-24 12:51:58 - INFO    :: MainThread : Tautulli is up to date
+2022-05-24 12:51:58 - INFO    :: Thread-1 : Tautulli PlexTV :: Requesting resources for server...
+2022-05-24 12:51:58 - INFO    :: MainThread : Tautulli NotificationHandler :: Starting background notification handler (2 threads).
+2022-05-24 12:51:58 - INFO    :: MainThread : Tautulli WebStart :: Initializing Tautulli web server...
+2022-05-24 12:51:58 - INFO    :: MainThread : Tautulli WebStart :: Web server authentication is enabled: Tautulli admin (username is 'dnautics') and Plex admin.
+2022-05-24 12:51:58 - INFO    :: MainThread : Tautulli WebStart :: Thread Pool Size: 10.
+2022-05-24 12:51:58 - INFO    :: MainThread : Tautulli WebStart :: Starting Tautulli web server on http://0.0.0.0:8181/
+2022-05-24 12:51:58 - INFO    :: MainThread : [24/May/2022:12:51:58] ENGINE Serving on http://0.0.0.0:8181
+2022-05-24 12:51:58 - INFO    :: MainThread : Launching Windows system tray icon.
+2022-05-24 12:51:58 - INFO    :: MainThread : Added Tautulli to Windows system startup registry key.
+2022-05-24 12:51:58 - INFO    :: MainThread : Tautulli is ready!
+2022-05-24 12:51:58 - INFO    :: Thread-1 : Tautulli Config :: Writing configuration to file
+2022-05-24 12:51:58 - INFO    :: Thread-1 : Tautulli PlexTV :: Using user-defined URL.
+2022-05-24 12:51:58 - INFO    :: Thread-1 : Tautulli PlexTV :: Selected server: MediaServer02 (http://***.***.***.***:20448) (Windows - Version 1.26.1.5798-99a4a6ac9)
+2022-05-24 12:51:58 - INFO    :: Thread-1 : Tautulli Config :: Writing configuration to file
+2022-05-24 12:51:58 - DEBUG   :: Thread-1 : Tautulli Monitor :: Checking for active streams.
+2022-05-24 12:51:59 - INFO    :: Thread-16 : Tautulli WebSocket :: Opening websocket.
+2022-05-24 12:51:59 - INFO    :: Thread-1 : Tautulli Users :: Requesting users list refresh...
+2022-05-24 12:51:59 - INFO    :: Thread-16 : Tautulli WebSocket :: Ready
+2022-05-24 12:51:59 - INFO    :: Thread-16 : Scheduled background task: Check GitHub for updates
+2022-05-24 12:51:59 - INFO    :: Thread-16 : Scheduled background task: Optimize Tautulli database
+2022-05-24 12:51:59 - INFO    :: Thread-16 : Scheduled background task: Backup Tautulli database
+2022-05-24 12:51:59 - INFO    :: Thread-16 : Scheduled background task: Backup Tautulli config
+2022-05-24 12:51:59 - INFO    :: Thread-16 : Scheduled background task: Refresh Plex server URLs
+2022-05-24 12:51:59 - INFO    :: Thread-16 : Scheduled background task: Refresh users list
+2022-05-24 12:51:59 - INFO    :: Thread-16 : Scheduled background task: Refresh libraries list
